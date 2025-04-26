@@ -21,3 +21,7 @@ There are two agents at play here (both are llama3.2 from ollama):
 ## Architechture
 
 ![Untitled Diagram](https://github.com/user-attachments/assets/d84a46ab-d06f-4a05-b5ba-86ccf4fdafaa)
+
+## Demo output
+
+![image](https://github.com/user-attachments/assets/b8ca7cec-e0fb-4ed8-a68d-98925f87258a)
