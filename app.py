@@ -6,7 +6,7 @@ def main():
     st.title("🔍 Research Assistant")
     st.write("Enter a topic below and get a concise, well-cited overview based on live web search.")
 
-    topic = st.text_input("Topic", value="", placeholder="e.g., React framework Redux")
+    topic = st.text_input("Topic", value="", placeholder="e.g., Machine Learning")
     if st.button("Analyze Topic"):
         if not topic.strip():
             st.warning("Please enter a topic to analyze.")
