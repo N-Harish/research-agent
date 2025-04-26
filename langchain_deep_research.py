@@ -77,7 +77,7 @@ def answer_with_live_web(topic: str) -> str:
     return synthesize_answer(topic, snippets)
 
 
-if __name__ == "__main__":
-    topic = "React framework Redux"
-    answer = answer_with_live_web(topic)
-    print(answer.content)
+# if __name__ == "__main__":
+#     topic = "React framework Redux"
+#     answer = answer_with_live_web(topic)
+#     print(answer.content)
